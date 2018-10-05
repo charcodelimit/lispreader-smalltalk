@@ -1,0 +1,3 @@
+private - interpreter
+topmostLisp
+	^ topmostLisp

@@ -1,0 +1,4 @@
+private - initialization
+ignoresCase
+
+	^ ignoreCase

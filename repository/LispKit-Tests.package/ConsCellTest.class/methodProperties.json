@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"testCyclicPrinting3" : "chr 10/4/2018 21:56",
+		"testCyclicPrinting" : "chr 10/4/2018 21:56",
+		"testSymbolsForBinding" : "spfa 11/18/2009 18:08",
+		"testFirst" : "spfa 11/18/2009 18:08",
+		"testLength" : "spfa 11/3/2011 22:17",
+		"testCollect" : "spfa 11/18/2009 18:08",
+		"testConsList" : "spfa 11/18/2009 18:08",
+		"testAddLast" : "spfa 11/18/2009 18:08",
+		"testCyclicPrinting2" : "chr 10/4/2018 21:56",
+		"testCyclicPrinting5" : "chr 10/4/2018 21:56",
+		"testDo" : "spfa 11/18/2009 18:08",
+		"testListCopy" : "spfa 11/18/2009 18:08",
+		"testLast" : "spfa 11/18/2009 18:08",
+		"testCyclicPrinting4" : "chr 10/4/2018 21:56",
+		"testAppend" : "spfa 11/18/2009 18:08",
+		"testWith" : "spfa 11/18/2009 18:08",
+		"testBindings" : "spfa 11/18/2009 18:08",
+		"testCellsDo" : "spfa 11/18/2009 18:08"
+	},
+	"class" : { }
+}

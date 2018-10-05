@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"isTwoWay" : "spfa 11/18/2009 18:10",
+		"force" : "spfa 11/18/2009 18:10",
+		"status:" : "spfa 11/18/2009 18:10",
+		"close" : "spfa 11/18/2009 18:10",
+		"inStream" : "spfa 11/18/2009 18:10",
+		"isLKIOPort" : "spfa 11/18/2009 18:10",
+		"endEntry" : "spfa 11/18/2009 18:10",
+		"atEnd" : "spfa 11/18/2009 18:10",
+		"outStream" : "spfa 11/18/2009 18:10",
+		"isInput" : "spfa 11/18/2009 18:10",
+		"clear" : "spfa 11/18/2009 18:10",
+		"reset" : "spfa 11/18/2009 18:10",
+		"status" : "spfa 11/18/2009 18:10",
+		"outStream:" : "spfa 11/18/2009 18:10",
+		"isOutput" : "spfa 11/18/2009 18:10",
+		"stream" : "spfa 11/18/2009 18:10",
+		"inStream:" : "spfa 11/18/2009 18:10"
+	},
+	"class" : {
+		"output:" : "spfa 11/18/2009 18:10",
+		"forOutput" : "spfa 11/18/2009 18:10",
+		"input:" : "spfa 11/18/2009 18:10",
+		"forInput" : "spfa 11/18/2009 18:10",
+		"eof" : "spfa 11/18/2009 18:10",
+		"input:output:" : "spfa 11/18/2009 18:10"
+	}
+}

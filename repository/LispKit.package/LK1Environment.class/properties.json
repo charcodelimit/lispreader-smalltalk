@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "chr 10/5/2018 21:14",
+	"super" : "Object",
+	"category" : "LispKit",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"upperBindings",
+		"symbolPlists",
+		"symbolValues"
+	],
+	"name" : "LK1Environment",
+	"type" : "normal"
+}

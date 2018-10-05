@@ -1,0 +1,4 @@
+booleans
+trueValue
+
+	^ #t

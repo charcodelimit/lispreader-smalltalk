@@ -1,0 +1,1 @@
+Interface presenting smalltalk streams as Lisp streams

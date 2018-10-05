@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"parsed" : "spfa 10/15/2011 22:05",
+		"base:" : "spfa 11/18/2009 18:10",
+		"constants:" : "spfa 10/15/2011 22:08",
+		"parsedAsSymbol" : "spfa 10/15/2011 22:13",
+		"initialize" : "spfa 11/18/2009 18:10",
+		"digit:" : "chr 10/4/2018 21:08",
+		"nextPut:" : "spfa 11/18/2009 18:10",
+		"getN1" : "spfa 11/18/2009 18:10",
+		"nextPutAll:" : "spfa 11/18/2009 18:10",
+		"nextCharacter:" : "spfa 11/18/2009 18:10"
+	},
+	"class" : {
+		"parse:" : "spfa 11/18/2009 18:10",
+		"parse:base:" : "spfa 11/18/2009 18:10",
+		"void" : "spfa 11/18/2009 18:10"
+	}
+}

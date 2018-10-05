@@ -1,0 +1,4 @@
+*LispKit
+isLKPrimitive
+
+	^ false

@@ -1,0 +1,1 @@
+Represents a non-readable object like a structure
