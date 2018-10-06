@@ -2,5 +2,4 @@
 sharpUninternedSymbol: aStream n: unused
 
 	unused ifNotNil: [self error].
-
-	self notYetImplemented
+	^(self read: aStream) asString

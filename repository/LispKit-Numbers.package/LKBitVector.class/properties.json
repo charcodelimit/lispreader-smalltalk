@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "chr 5/29/2014 20:14",
+	"super" : "Object",
+	"category" : "LispKit-Numbers",
+	"classinstvars" : [
+		"printFullSize"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"length",
+		"value"
+	],
+	"name" : "LKBitVector",
+	"type" : "normal"
+}

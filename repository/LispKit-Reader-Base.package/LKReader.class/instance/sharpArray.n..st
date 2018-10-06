@@ -1,6 +1,6 @@
 # macros
-sharpArray: aStream n: unused
+sharpArray: aStream n: dimensions
 
-	unused ifNotNil: [self error].
+	dimensions ifNil: [self error: 'Incorrect array syntax - no rank integer'].
 
 	self notYetImplemented

@@ -1,6 +1,4 @@
 # macros
 sharpBinaryRational: aStream n: unused
-
-	unused ifNotNil: [self error].
-
-	^ Number readFrom: (self read: aStream) asString base: 2
+	unused ifNotNil: [ self error ].
+	^ self readRational: aStream radix: 2.

@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"value:length:" : "chr 5/30/2014 21:07",
+		"bitAt:" : "chr 10/6/2018 21:43",
+		"printFullOn:" : "chr 10/6/2018 21:45",
+		"lowestBit" : "chr 10/6/2018 21:43",
+		"resetBitAt:" : "chr 5/29/2014 17:55",
+		"printOn:" : "chr 10/6/2018 21:47",
+		"printShortOn:" : "chr 10/6/2018 21:44",
+		"shortString" : "chr 10/6/2018 21:49",
+		"shouldPrintFull" : "chr 10/6/2018 21:45",
+		"length" : "chr 10/6/2018 21:50",
+		"numBitsValue" : "chr 10/6/2018 21:45",
+		"lowestBitFlip" : "chr 10/6/2018 21:44",
+		"value" : "chr 10/6/2018 21:50",
+		"numBits" : "chr 5/30/2014 21:13",
+		"setBitAt:" : "chr 5/29/2014 17:50",
+		"value:" : "chr 10/6/2018 21:55"
+	},
+	"class" : {
+		"printFullUpToSize:" : "chr 10/6/2018 21:46",
+		"new" : "chr 6/23/2014 22:12",
+		"printFullUpToSize" : "chr 10/6/2018 21:46",
+		"value:" : "chr 5/29/2014 17:35",
+		"readFrom:" : "chr 5/30/2014 20:15",
+		"defaultPrintFullUpToSize" : "chr 10/6/2018 21:51",
+		"value:length:" : "chr 5/30/2014 21:24"
+	}
+}

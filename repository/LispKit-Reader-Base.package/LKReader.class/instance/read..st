@@ -1,4 +1,4 @@
-meta-object-protocol
+reading
 read: aStream
 
 	"this follows the algorithm described in
