@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"testCannotRejectFulfilledPromise" : "tonyg 1/29/2018 14:32",
+		"testChainedResolvers" : "jcg 4/5/2010 00:36",
+		"testTimeout" : "tonyg 2/9/2018 11:45",
+		"testWaitForResolution" : "chr 9/26/2018 22:25",
+		"testThenReturnsaPromise" : "fbs 5/15/2013 17:23",
+		"testTimeoutRejected" : "tonyg 2/9/2018 11:47",
+		"testWaitRejectionYieldsCorrectBrokenPromise" : "chr 9/26/2018 22:26",
+		"testWaitForRejection" : "tonyg 2/17/2017 14:04",
+		"testCannotResolveaRejectedPromise" : "tonyg 1/29/2018 14:34",
+		"testMultipleResolvers" : "jcg 4/5/2010 00:31",
+		"testAnErrorInThenRejectsPromise" : "fbs 5/23/2013 08:36",
+		"testThenPermitsChainingOfPromises" : "fbs 5/23/2013 17:35",
+		"testCollapsesChainsOfPromises" : "tonyg 1/28/2018 16:23",
+		"testRejectWithInvokesErrorHandlers" : "chr 9/26/2018 22:21",
+		"testifRejectedRunsBlockIfPromiseFails" : "fbs 5/26/2013 14:13",
+		"testifRejectedDoesNotRunBlockIfPromiseResolves" : "fbs 5/26/2013 14:13",
+		"testCanRejectPromise" : "fbs 5/17/2013 18:26",
+		"testUnitReturnsaPromise" : "fbs 5/15/2013 17:12",
+		"testSingleResolver" : "fbs 5/23/2013 08:28",
+		"testFirstResolutionWins" : "tonyg 1/31/2018 23:33"
+	},
+	"class" : { }
+}

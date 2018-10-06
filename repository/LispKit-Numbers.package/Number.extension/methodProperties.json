@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"i" : "chr 10/6/2018 16:20",
+		"tanh" : "chr 10/6/2018 16:27",
+		"adaptToComplex:andSend:" : "chr 10/6/2018 16:23",
+		"arCosh" : "chr 10/6/2018 16:28",
+		"sinh" : "chr 10/6/2018 16:27",
+		"arTanh" : "chr 10/6/2018 16:28",
+		"asComplex" : "chr 10/6/2018 16:21",
+		"cosh" : "chr 10/6/2018 16:27",
+		"arSinh" : "chr 10/6/2018 16:28"
+	},
+	"class" : { }
+}

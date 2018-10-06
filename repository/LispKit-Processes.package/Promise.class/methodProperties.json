@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"waitTimeoutSeconds:" : "jcg 12/17/2009 01:11",
+		">>" : "tonyg 1/28/2018 16:07",
+		"initialize" : "fbs 5/26/2013 14:19",
+		">>=" : "tonyg 1/28/2018 15:54",
+		"error" : "fbs 5/17/2013 18:42",
+		"then:" : "tonyg 1/29/2018 14:12",
+		"wait" : "tonyg 2/17/2017 13:55",
+		"isRejected" : "fbs 5/20/2013 09:32",
+		"initializeWithResolvedValue:" : "fbs 5/15/2013 17:37",
+		"initializeWithIfRejected:" : "fbs 5/20/2013 20:37",
+		"then:ifRejected:" : "fbs 5/23/2013 20:26",
+		"ifRejected:" : "fbs 5/26/2013 14:17",
+		"whenResolved:" : "tonyg 2/11/2018 15:50",
+		"evaluateRejecter:" : "fbs 5/20/2013 09:41",
+		"isResolved" : "fbs 5/17/2013 18:33",
+		"evaluateResolver:" : "fbs 5/20/2013 09:29",
+		"resolveWith:" : "tonyg 2/11/2018 15:49",
+		"whenRejected:" : "tonyg 2/11/2018 15:48",
+		"isPromise" : "tonyg 2/1/2018 09:57",
+		"printOn:" : "fbs 5/20/2013 20:42",
+		"waitTimeoutMSecs:" : "tonyg 2/9/2018 11:49",
+		"value" : "jcg 12/17/2009 01:03",
+		"rejectWith:" : "tonyg 2/11/2018 15:44"
+	},
+	"class" : {
+		"ifRejected:" : "fbs 5/20/2013 20:37",
+		"unit:" : "fbs 5/17/2013 08:23"
+	}
+}

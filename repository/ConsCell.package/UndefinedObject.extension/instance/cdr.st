@@ -1,0 +1,4 @@
+*ConsCell
+cdr
+
+	^ nil

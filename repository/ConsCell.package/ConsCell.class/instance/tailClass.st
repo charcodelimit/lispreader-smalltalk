@@ -1,0 +1,4 @@
+conversion
+tailClass
+
+	^ self class

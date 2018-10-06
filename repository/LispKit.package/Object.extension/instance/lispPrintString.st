@@ -1,4 +1,3 @@
-as yet unclassified
+*LispKit
 lispPrintString
-
-	^ self printStringForLisp: nil.
+	^ self printStringForLisp: nil

@@ -1,4 +1,4 @@
-as yet unclassified
+*LispKit
 printStringForLisp: aLisp limitedTo: limit
 
 	| limitedString |
