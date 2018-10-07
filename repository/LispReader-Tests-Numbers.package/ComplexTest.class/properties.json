@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "chr 10/6/2018 21:53",
+	"super" : "TestCase",
+	"category" : "LispReader-Tests-Numbers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ComplexTest",
+	"type" : "normal"
+}

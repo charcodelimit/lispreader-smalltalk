@@ -1,4 +1,0 @@
-*ConsCell
-car
-
-	^ nil

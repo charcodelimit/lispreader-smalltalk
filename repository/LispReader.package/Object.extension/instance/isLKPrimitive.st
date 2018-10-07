@@ -1,0 +1,4 @@
+*LispReader
+isLKPrimitive
+
+	^ false

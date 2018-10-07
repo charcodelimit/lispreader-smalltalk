@@ -1,0 +1,3 @@
+*LispReader-Processes
+isPromise
+	^false

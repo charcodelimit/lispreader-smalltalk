@@ -1,3 +1,0 @@
-*LispKit-Processes
-isPromise
-	^false

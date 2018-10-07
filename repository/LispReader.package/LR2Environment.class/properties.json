@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 10/5/2018 21:15",
+	"super" : "LR1Environment",
+	"category" : "LispReader",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"symbolFunctions"
+	],
+	"name" : "LR2Environment",
+	"type" : "normal"
+}

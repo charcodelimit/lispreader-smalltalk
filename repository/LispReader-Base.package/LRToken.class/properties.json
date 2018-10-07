@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "chr 10/4/2018 22:01",
+	"super" : "WriteStream",
+	"category" : "LispReader-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"couldBeFraction",
+		"couldBeExponent",
+		"couldBeNumber",
+		"base",
+		"number",
+		"dot",
+		"sign",
+		"nindex",
+		"n1",
+		"constants"
+	],
+	"name" : "LRToken",
+	"type" : "normal"
+}

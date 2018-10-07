@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testBitVectorShortPrinting" : "chr 10/7/2018 14:41",
+		"testBitVectorBasics" : "chr 10/7/2018 14:41",
+		"testBitVectorPrinting" : "chr 10/7/2018 14:41",
+		"testLargeBitVector" : "chr 10/7/2018 14:41",
+		"testBitFlip" : "chr 10/7/2018 14:41",
+		"testBitVectorLeadingZeroPrinting" : "chr 10/7/2018 14:41"
+	},
+	"class" : { }
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "tonyg 1/31/2018 23:34",
+	"super" : "Object",
+	"category" : "LispReader-Processes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"resolvers",
+		"mutex",
+		"state",
+		"error",
+		"rejecters"
+	],
+	"name" : "Promise",
+	"type" : "normal"
+}

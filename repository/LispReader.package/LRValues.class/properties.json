@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "spfa 10/24/2006 21:12",
+	"super" : "Array",
+	"category" : "LispReader",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LRValues",
+	"type" : "variable"
+}

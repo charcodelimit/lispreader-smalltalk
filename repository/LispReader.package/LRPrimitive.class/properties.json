@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "chr 10/5/2018 21:15",
+	"super" : "Object",
+	"category" : "LispReader",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selector",
+		"lisp"
+	],
+	"name" : "LRPrimitive",
+	"type" : "normal"
+}

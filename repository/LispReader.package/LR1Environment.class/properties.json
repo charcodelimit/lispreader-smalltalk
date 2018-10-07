@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "chr 10/5/2018 21:14",
+	"super" : "Object",
+	"category" : "LispReader",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"upperBindings",
+		"symbolPlists",
+		"symbolValues"
+	],
+	"name" : "LR1Environment",
+	"type" : "normal"
+}

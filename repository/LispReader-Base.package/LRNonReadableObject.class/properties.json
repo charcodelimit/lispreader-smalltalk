@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 10/4/2018 22:01",
+	"super" : "Object",
+	"category" : "LispReader-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"printedRepresentation"
+	],
+	"name" : "LRNonReadableObject",
+	"type" : "normal"
+}

@@ -1,4 +1,0 @@
-accessing
-second
-
-	^ cdr car

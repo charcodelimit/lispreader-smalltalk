@@ -1,4 +1,0 @@
-conversion
-tailClass
-
-	^ self class

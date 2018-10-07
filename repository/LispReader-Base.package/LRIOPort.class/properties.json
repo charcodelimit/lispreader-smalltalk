@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "spfa 10/20/2006 13:03",
+	"super" : "Object",
+	"category" : "LispReader-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inStream",
+		"outStream",
+		"status"
+	],
+	"name" : "LRIOPort",
+	"type" : "normal"
+}

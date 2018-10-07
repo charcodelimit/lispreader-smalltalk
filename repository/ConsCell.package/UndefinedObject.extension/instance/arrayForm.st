@@ -1,4 +1,0 @@
-*ConsCell
-arrayForm
-
-	^ #()

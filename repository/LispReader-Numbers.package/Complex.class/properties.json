@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "mk 10/31/2003 22:19",
+	"super" : "Object",
+	"category" : "LispReader-Numbers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"real",
+		"imaginary"
+	],
+	"name" : "Complex",
+	"type" : "normal"
+}

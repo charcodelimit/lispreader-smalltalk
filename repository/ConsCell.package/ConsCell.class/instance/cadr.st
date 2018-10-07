@@ -1,4 +1,0 @@
-accessing
-cadr
-
-	^ cdr car

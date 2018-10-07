@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "spfa 10/11/2006 11:49",
+	"super" : "Object",
+	"category" : "LispReader-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lisp",
+		"labels"
+	],
+	"name" : "LRReader",
+	"type" : "normal"
+}

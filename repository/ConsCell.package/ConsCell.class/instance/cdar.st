@@ -1,4 +1,0 @@
-accessing
-cdar
-
-	^ car cdr
