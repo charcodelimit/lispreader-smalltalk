@@ -17,7 +17,7 @@ To install the latest version execute the following:
 ```Smalltalk
 Metacello new
   baseline: 'LispReader';
-  repository: 'github://charcodelimit/lispreader-smalltalk/pharo-repository';
+  repository: 'github://charcodelimit/lispreader-smalltalk/repository-pharo';
   load.
 ```
 
