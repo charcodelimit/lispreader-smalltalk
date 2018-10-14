@@ -39,7 +39,7 @@ The code creates a corresponding `ConsCell` object containing Smalltalk `Symbol`
 
 ## License
 
-LispKit Reader for Pharo is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+LispReader for Pharo is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 
 [travis_b]: https://travis-ci.org/charcodelimit/lispreader-smalltalk.svg?branch=master
