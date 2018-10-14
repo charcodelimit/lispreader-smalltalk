@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "chr 10/7/2018 20:56",
+	"super" : "ConsCellTest",
+	"category" : "LispReader-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LRConsCellTest",
+	"type" : "normal"
+}

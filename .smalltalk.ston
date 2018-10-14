@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'LispReader',
+      #directory : 'repository-pharo',
+      #platforms : [ #pharo ],
+      #load : [ 'tests' ]
+    }
+  ]
+}

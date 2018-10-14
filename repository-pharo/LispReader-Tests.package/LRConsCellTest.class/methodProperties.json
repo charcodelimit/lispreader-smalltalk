@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testCyclicPrinting" : "chr 10/7/2018 21:05",
+		"testAppend" : "chr 10/7/2018 20:57",
+		"testCyclicPrinting3" : "chr 10/7/2018 21:05",
+		"testCyclicPrinting5" : "chr 10/7/2018 21:06",
+		"testBindings" : "chr 10/7/2018 20:57",
+		"testConsList" : "chr 10/7/2018 20:58",
+		"testCyclicPrinting4" : "chr 10/7/2018 21:05",
+		"testCyclicPrinting2" : "chr 10/7/2018 21:05",
+		"testSymbolsForBinding" : "chr 10/7/2018 21:09"
+	},
+	"class" : { }
+}
