@@ -1,4 +1,4 @@
-private-subclasses may implement
+private - subclasses may implement
 aliasForPrimitive: aSymbol
 
 	"return the lispish symbol associated to the function or macro defined by primitive method aSymbol"
